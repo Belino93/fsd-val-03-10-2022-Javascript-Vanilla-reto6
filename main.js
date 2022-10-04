@@ -83,6 +83,7 @@
 //     let password2 = prompt('Introduce la contraseña,' + i + ' intentos restantes.');
 //     if(password === password2){
 //         console.log('Enhorabuena');
+//         break;
 //     }
 // }   
 
